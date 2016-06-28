@@ -1,0 +1,33 @@
+body{
+    background-color: #0074D9;
+}
+
+
+article{
+    width: 80%;
+    height: 500px;
+    text-align: center;
+    margin-right: 10%;
+    margin-left:  10%;
+    text-decoration: none;
+}
+
+h1{
+    padding-top: 100px;
+}
+
+
+.well a{
+    text-decoration: none;
+    color: black;
+}
+
+.well h2{
+    text-decoration: underline;
+}
+
+.well{
+    border-style: inset;
+    border-width: 1px;
+    padding-top: 20px;
+}
